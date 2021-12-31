@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const mongoDBuri =
   "mongodb+srv://tufailkarim07:tufailkarim07@testtufail.c7mdf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
-
+/*here i make database connection */
 const mongod = async () => {
   mongoose
     .connect(mongoDBuri, {

@@ -1,3 +1,4 @@
+/* Here i am making schema */
 const mongoose = require("mongoose");
 const { search } = require("../router/router");
 const schema = mongoose.Schema;
