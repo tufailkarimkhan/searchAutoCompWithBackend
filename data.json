@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "name": "Quip",
+      "domain": "quip.com",
+      "logo": "https://logo.clearbit.com/quip.com"
+    },
+    {
+      "name": "QRCode Tiger",
+      "domain": "qrcode-tiger.com",
+      "logo": "https://logo.clearbit.com/qrcode-tiger.com"
+    },
+    {
+      "name": "Target",
+      "domain": "target.com",
+      "logo": "https://logo.clearbit.com/target.com"
+    },
+    {
+      "name": "The Home Depot",
+      "domain": "homedepot.com",
+      "logo": "https://logo.clearbit.com/homedepot.com"
+    },
+    {
+      "name": "The Guardian",
+      "domain": "theguardian.com",
+      "logo": "https://logo.clearbit.com/theguardian.com"
+    },
+    {
+      "name": "T-Mobile",
+      "domain": "t-mobile.com",
+      "logo": "https://logo.clearbit.com/t-mobile.com"
+    },
+    {
+      "name": "The Motley Fool",
+      "domain": "fool.com",
+      "logo": "https://logo.clearbit.com/fool.com"
+    },
+    {
+      "name": "Adobe",
+      "domain": "adobe.com",
+      "logo": "https://logo.clearbit.com/adobe.com"
+    },
+    {
+      "name": "ADP",
+      "domain": "adp.com",
+      "logo": "https://logo.clearbit.com/adp.com"
+    },
+    {
+      "name": "Airbnb",
+      "domain": "airbnb.com",
+      "logo": "https://logo.clearbit.com/airbnb.com"
+    },
+    {
+      "name": "AT\u0026T",
+      "domain": "att.com",
+      "logo": "https://logo.clearbit.com/att.com"
+    },
+    {
+      "name": "AOL",
+      "domain": "aol.com",
+      "logo": "https://logo.clearbit.com/aol.com"
+    },
+    {
+      "name": "Best Buy",
+      "domain": "bestbuy.com",
+      "logo": "https://logo.clearbit.com/bestbuy.com"
+    },
+    {
+      "name": "Bank of America",
+      "domain": "bankofamerica.com",
+      "logo": "https://logo.clearbit.com/bankofamerica.com"
+    },
+    {
+      "name": "BBC",
+      "domain": "bbc.com",
+      "logo": "https://logo.clearbit.com/bbc.com"
+    },
+    {
+      "name": "Blackboard",
+      "domain": "blackboard.com",
+      "logo": "https://logo.clearbit.com/blackboard.com"
+    },
+    {
+      "name": "B\u0026H Photo Video",
+      "domain": "bhphotovideo.com",
+      "logo": "https://logo.clearbit.com/bhphotovideo.com"
+    }
+  ]
+}
